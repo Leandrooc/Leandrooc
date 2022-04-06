@@ -1,6 +1,6 @@
-## Hi! 👋
+## Olá! 👋
 
-### I'm Leandro, a 20 years old web developer from Brazil.
+### Eu me chamo Leandro e sou Desenvolvedor Web Full Stack.
 
 <div>
   <a href="https://github.com/Leandrooc">
